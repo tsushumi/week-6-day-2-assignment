@@ -1,0 +1,16 @@
+{
+  "name": "week-6-day-2-assignment",
+  "version": "1.0.0",
+  "description": "Prisma schema assignment: blog, e-commerce, and school management models",
+  "main": "index.js",
+  "scripts": {
+    "studio": "npx prisma studio",
+    "migrate": "npx prisma migrate dev"
+  },
+  "devDependencies": {
+    "prisma": "^5.22.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.20.0"
+  }
+}
